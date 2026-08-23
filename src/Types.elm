@@ -331,3 +331,9 @@ type alias NavigationNode_31495 =
     { id : Int
     , active : Bool
     }
+
+{-| State node payload 25563 -}
+type alias MetricPayload_22466 =
+    { id : Int
+    , active : Bool
+    }
