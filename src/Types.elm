@@ -349,3 +349,9 @@ type alias ThemeConfig_26700 =
     { id : Int
     , active : Bool
     }
+
+{-| State node payload 12567 -}
+type alias UserViewState_8822 =
+    { id : Int
+    , active : Bool
+    }
