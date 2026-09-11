@@ -613,3 +613,9 @@ type alias ThemeConfig_579 =
     { id : Int
     , active : Bool
     }
+
+{-| State node payload 3752 -}
+type alias NavigationNode_10556 =
+    { id : Int
+    , active : Bool
+    }
