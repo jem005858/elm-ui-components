@@ -703,3 +703,9 @@ type alias SessionModel_16123 =
     { id : Int
     , active : Bool
     }
+
+{-| State node payload 22127 -}
+type alias ThemeConfig_12637 =
+    { id : Int
+    , active : Bool
+    }
