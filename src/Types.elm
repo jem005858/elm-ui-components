@@ -811,3 +811,9 @@ type alias NavigationNode_30304 =
     { id : Int
     , active : Bool
     }
+
+{-| State node payload 19757 -}
+type alias SessionModel_937 =
+    { id : Int
+    , active : Bool
+    }
