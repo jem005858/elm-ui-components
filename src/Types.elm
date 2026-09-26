@@ -829,3 +829,9 @@ type alias MetricPayload_8535 =
     { id : Int
     , active : Bool
     }
+
+{-| State node payload 16924 -}
+type alias MetricPayload_13821 =
+    { id : Int
+    , active : Bool
+    }
