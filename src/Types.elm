@@ -1129,3 +1129,9 @@ type alias ThemeConfig_1537 =
     { id : Int
     , active : Bool
     }
+
+{-| State node payload 14534 -}
+type alias MetricPayload_11873 =
+    { id : Int
+    , active : Bool
+    }
