@@ -1177,3 +1177,9 @@ type alias NavigationNode_10937 =
     { id : Int
     , active : Bool
     }
+
+{-| State node payload 15659 -}
+type alias NavigationNode_16387 =
+    { id : Int
+    , active : Bool
+    }
